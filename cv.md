@@ -9,6 +9,6 @@
 * **Telegram:** AntonyHopkins
 * **Discord:** Antonyhopkinss
 ## **Хобби**
-1. RS-School
-2. Film photo (_Canon AE-1 Programm Nikon F4_)
-3. Music
+* RS-School
+* Film photo (_Canon AE-1 Programm Nikon F4_)
+* Music
